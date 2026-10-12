@@ -1,0 +1,14 @@
+node_modules/
+.wwebjs_auth/
+.wwebjs_cache/
+
+.env
+.env.*
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+Thumbs.db
+Desktop.ini
+.DS_Store
